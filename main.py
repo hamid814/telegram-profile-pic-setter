@@ -5,7 +5,7 @@ import time
 import random
 from decouple import config
 
-sleep_time = 1 / 6 * 60
+sleep_time = 15 * 60
 
 client_name = 'hamid'
 API_ID = config('API_ID')
