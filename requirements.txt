@@ -1,0 +1,2 @@
+Telethon == 1.24.0
+python_decouple == 3.5
