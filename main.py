@@ -45,4 +45,4 @@ while True:
   ))
 
   prevNum = newNum
-  time.sleep(sleep_time + random.random())
+  time.sleep(sleep_time)
